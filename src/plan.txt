@@ -1,0 +1,23 @@
+Plan for building my react calculator.
+
+1. Screen
+2. Operator Buttons x 4 (/, +, -, *)
+3. Clear Button (AC)
+4. Equals Button (=)
+5. Number Buttons x 11 (1, 2, 3, 4, 5, 6, 7, 8, 9, 0, .)
+
+React Components
+1. Screen x 1
+2. Button x 17
+
+There's the plan, lets go build it.
+
+
+CSS Plan:
+4 x 5 grid
+
+each button to be 50px h w inc margin
+
+button grid:
+200px w
+250px h
